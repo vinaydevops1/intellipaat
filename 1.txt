@@ -3,3 +3,4 @@ hi jenkins
 1st build periodicaly
 2nd poll scm
 success
+1st edite
